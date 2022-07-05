@@ -1,0 +1,4 @@
+generic;PROJECT
+Cap|Electricity|Gas|CC|w/ CCS (GW);Capacity|Electricity|Gas|w/ CCS (GW)
+Emi|CO2|Land-Use Change (Mt CO2/yr);Emissions|CO2|Land Use (Mt CO2/yr)
+SE|Electricity|Gas (EJ/yr);Secondary Energy|Electricity|Gas (EJ/yr)
